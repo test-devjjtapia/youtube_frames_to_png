@@ -235,8 +235,4 @@ Dentro de la carpeta de salida que indiques.
 
 - **yt-dlp**: Licencia Unlicense/MIT-like (ver repo oficial).
 - **FFmpeg**: Licencias LGPL/GPL según componentes habilitados.  
-- Este script es de uso educativo y se apoya en estas herramientas.
-
 ---
-
-¿Dudas o mejoras que te gustaría agregar? Abre un issue o comenta en el chat y lo iteramos.
